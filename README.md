@@ -25,6 +25,7 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 ---
 
 ## ディレクトリ構成
+```
 sales_batch_tool/
 ├── data/
 │   └── superstore.csv                  # 元データ（スーパーの売上情報CSV）
@@ -44,3 +45,4 @@ sales_batch_tool/
 ├── .env                               # DB接続情報（環境変数）
 ├── README.md                          # このファイル
 └── requirements.txt                   # 必要なPythonパッケージ
+```
