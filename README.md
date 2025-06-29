@@ -1,6 +1,12 @@
 # 売上集計バッチ処理ツール（Sales Batch Tool）
 
-大手通販会社の案件を想定し、Python・PostgreSQL・SQL を用いて売上データを月次・カテゴリ別に集計し、Excelファイルに出力するバッチ処理ツールです。
+米国スーパーの売上データを基に、Python・PostgreSQL・SQL を用いて売上データを月次・カテゴリ別に集計し、Excelファイルに出力するバッチ処理ツールです。
+
+## 使用データ
+アプリケーションで使用している売上データは、以下のKaggle公開データセットを基にしています。
+
+- 米国のスーパーストアにおける売上情報(Superstore Dataset)
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ---
 
