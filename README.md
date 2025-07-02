@@ -17,9 +17,7 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 - SQLAlchemy
 - psycopg2
 - PostgreSQL
-- openpyxl
 - dotenv
-
 - PostgreSQL
 
 ---
